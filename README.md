@@ -31,7 +31,6 @@ _Coming soon! Add your favorite or most interesting projects here._
 ## 🌐 Connect with Me
 
 - [GitHub](https://github.com/chor-code)
-- (Add LinkedIn, Twitter, or other links later)
 
 ---
 
