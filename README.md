@@ -10,7 +10,7 @@ Currently pursuing Computer Science (2nd year at EST de Salé) and gaining hands
 
 - **Web/Frameworks:** Laravel, Next.js, React, Electron
 - **Programming:** C, Java, JavaScript
-- **Other tools:** (Add your favorites!)
+- **Other tools:** 
 
 ---
 
