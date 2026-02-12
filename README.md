@@ -1,38 +1,23 @@
-# 👋 Hi, I'm Chorouk Khatabi
+# 👋 Hello, I'm Chorouk!
 
-🎓 **Student & Aspiring Software Developer**  
-Hi, I'm Chorouk – a passionate software developer who believes in writing clean code and building smart solutions.  
-Currently pursuing Computer Science (2nd year at EST de Salé) and gaining hands-on experience through internships.
+### 🎓 Computer Engineering | Big Data & AI Specialist
 
----
-
-## 💻 Technologies & Languages
-
-- **Web/Frameworks:** Laravel, Next.js, React, Electron
-- **Programming:** C, Java, JavaScript
-- **Other tools:** 
+I am a Computer Engineering student focused on building intelligent systems and processing large-scale data. I enjoy turning complex datasets into actionable insights using machine learning and distributed computing.
 
 ---
 
-## ✨ About Me
+### 🛠️ Technical Stack
 
-- 🌱 Always learning and exploring new tech
-- 🧑‍💻 Love working on challenging projects and collaborating on open-source
-- 🎨 Hobbies: Drawing, creative arts
+* **🤖 AI & Data Science:** Machine Learning, Deep Learning,NLP
+* **🐘 Big Data Tools:** Apache Spark, Hadoop,  NoSQL
+* **💻 Languages:** Python, SQL, Java
+* **🔧 DevOps & Tools:** Git, Docker
+* 
+### 🔭 What I'm working on
+* Transitioning my development skills towards data-driven projects.
+* Building my first AI models and data pipelines.
+* Improving my knowledge of Big Data architectures.
+
 
 ---
-
-## 📌 Featured Projects
-
-_Coming soon! Add your favorite or most interesting projects here._
-
----
-
-## 🌐 Connect with Me
- 
-- [GitHub](https://github.com/chor-code)
----
-
-<!--
-You can always update this README with more about your projects, achievements, or ways to contact you!
--->
+*“In God we trust, all others must bring data.”*
