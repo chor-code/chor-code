@@ -12,7 +12,7 @@ I am a Computer Engineering student focused on building intelligent systems and 
 * **🐘 Big Data Tools:** Apache Spark, Hadoop,  NoSQL
 * **💻 Languages:** Python, SQL, Java
 * **🔧 DevOps & Tools:** Git, Docker
-* 
+  
 ### 🔭 What I'm working on
 * Transitioning my development skills towards data-driven projects.
 * Building my first AI models and data pipelines.
