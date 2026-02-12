@@ -10,7 +10,7 @@ I am a Computer Engineering student focused on building intelligent systems and 
 
 * **🤖 AI & Data Science:** Machine Learning, Deep Learning,NLP
 * **🐘 Big Data Tools:** Apache Spark, Hadoop,  NoSQL
-* **💻 Languages:** Python, SQL, Java
+* **💻 Languages:** Python, SQL, Java , C, PHP
 * **🔧 DevOps & Tools:** Git, Docker
   
 ### 🔭 What I'm working on
