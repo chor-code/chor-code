@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4338CA,100:06B6D4&height=230&section=header&text=CHOROUK%20KHATABI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Digital%20Finance%20%7C%20Artificial%20Intelligence%20%7C%20Data%20Science&descSize=16&descAlignY=59&animation=fadeIn" width="100%" alt="Header"/>
@@ -177,4 +176,3 @@ to develop intelligent and innovative solutions for the financial sector.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4338CA,100:0F172A&height=110&section=footer" width="100%" alt="Footer"/>
 
 </div>
-```
